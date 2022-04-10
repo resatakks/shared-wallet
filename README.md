@@ -1,1 +1,1 @@
-Itu blockhain haftalık solidity challange 
+Simple wallet
